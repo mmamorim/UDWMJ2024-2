@@ -4,8 +4,7 @@
 
 Em algum lugar das aulas passadas...
 
-[Aula01](./Aula01-2608/)
-[Aula02](./Aula02-0209/)
-[Aula03](./Aula03-0909/)
+* [Aula01](./Aula01-2608/)
+* [Aula02](./Aula02-0209/)
+* [Aula03](./Aula03-0909/)
 
-$\frac{1}{2}$
