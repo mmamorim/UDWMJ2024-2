@@ -8,6 +8,4 @@ Em algum lugar das aulas passadas...
 [Aula02](./Aula02-0209/)
 [Aula03](./Aula03-0909/)
 
-$
-    /frac{1}{2}
-$
+$/frac{1}{2}$
