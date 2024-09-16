@@ -4,7 +4,12 @@
 
 Em algum lugar das aulas passadas...
 
+Iconify
+```
+<script src="https://code.iconify.design/iconify-icon/2.1.0/iconify-icon.min.js"></script>
+```
+
 * [Aula01](./Aula01-2608/)
 * [Aula02](./Aula02-0209/)
 * [Aula03](./Aula03-0909/)
-
+* [Aula04](./Aula04-1609/)
