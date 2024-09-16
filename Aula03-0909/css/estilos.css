@@ -1,0 +1,64 @@
+.btn {
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 0px 10px;
+    padding: 3px 5px;
+    cursor: pointer;
+}
+
+.btn-primary {
+    color: white;
+    background-color: blue;
+}
+.btn-primary:hover {
+    background-color: skyblue;
+}
+.btn-success {
+    color: white;
+    background-color: green;
+}
+.btn-success:hover {
+    background-color: limegreen;
+}
+.btn-sm {
+    font-size: 10pt;
+}
+.btn-xs {
+    font-size: 8pt;
+}
+.btn-lg {
+    font-size: 16pt;
+}
+
+.avatar {
+    border: 1px solid black; 
+    width: 48px;
+    height: 48px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.avatar-sm {
+    width: 28px;
+    height: 28px;
+}
+
+.avatar-round {
+    border-radius: 50%;
+}
+
+.avatar img {
+    width: 100%;
+}
+
+.avatar-round img {
+    border-radius: 50%;
+}
+
+.container-flex {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    align-items: center;
+}
