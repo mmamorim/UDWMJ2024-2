@@ -34,3 +34,19 @@ ver arquivo funcoes.js
 * ```setTimeout(func,time)``` chama a função ```func``` após ```time``` milisegundos 
 * 
 * ```setInterval(func,time)``` repete a chamada da função ```func``` a cada ```time``` milisegundos 
+
+ver arquivo ```timers.js```
+
+## Como interagir com HTML
+
+## Eventos
+
+~~~html
+<button onclick="clique()">clique aqui</button>
+~~~
+
+~~~js
+function clique() {
+    console.log('cliquei no botão')
+}
+~~~

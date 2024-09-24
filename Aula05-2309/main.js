@@ -1,12 +1,33 @@
 
 let contador = 0
+let timer = null
 
-let timer = setInterval(() => {
-    contador++
-    console.log("contador",contador);    
-},1000)
+function parar() {
+    console.log("parar");
+    clearInterval(timer)
+    timer = null
+    let elem = document.getElementById('segundos')
+    elem.style = 'color: red'
+}
 
-setInterval(() => {
-    console.log("passou 2 seg");
-},2000)
+function iniciar() {
+    if (!timer) {
+        timer = setInterval(() => {
+            contador++
+            let elem = document.getElementById('segundos')
+            if (contador <= 9) {
+                elem.innerText = '0' + contador
+            } else {
+                elem.innerText = contador
+            }
+        }, 1000)
+    }
+}
+
+function passeiPeloH1() {
+    console.log("passeiPeloH1");
+
+}
+
+
 
