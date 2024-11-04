@@ -8,7 +8,7 @@ function Fruta({ fruta }) {
             <div className="bg-gray-200 my-1 p-1 rounded">
                 {emoji}
             </div>
-            <div className="bg-gray-200 my-1 p-1 rounded">
+            <div className="text-3xl bg-gray-200 my-1 p-1 rounded">
                 {id}
             </div>
             <div className="bg-gray-200 my-1 p-1 rounded">
